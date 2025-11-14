@@ -1,5 +1,7 @@
 # Healthcare Project
 
+![Logo](images/logo.png)
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Business Questions](#business-questions)
